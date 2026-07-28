@@ -2,6 +2,8 @@
 
 This repository contains a simplified Life Cycle Assesment (LCA) using Brightway2 workflow that compares a CryoPop-based cryotherapy procedure with a standard cryotherapy baseline.
 
+![CryoPop Brightway workflow summary](docs\gwp_comparison.png)
+
 The repository:
 - creates a Brightway2 project and biosphere database
 - builds two foreground processes
